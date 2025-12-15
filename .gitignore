@@ -1,0 +1,4 @@
+pocketbase
+pb_data/
+.DS_Store
+pb_migrations/
